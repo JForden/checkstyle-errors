@@ -30,7 +30,6 @@ public static void main(String[] args)
         // Calling method 2 inside main() method
         useInSomeMethod(sets);
     }
-```A
 
 ### :heavy_check_mark: Correct code:
 
